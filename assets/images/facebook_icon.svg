@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" viewBox="0 0 44 44">
+  <g id="Sign_in_with_Facebook" data-name="Sign in with Facebook" transform="translate(-80)">
+    <g id="Button_Background" data-name="Button Background" transform="translate(80)">
+      <rect id="Button_Shape" data-name="Button Shape" width="44" height="44" rx="6" fill="#fff"/>
+    </g>
+    <path id="facebook-svgrepo-com" d="M4.744,9.587H6.717V17.71a.29.29,0,0,0,.29.29h3.345a.29.29,0,0,0,.29-.29V9.625h2.268a.29.29,0,0,0,.288-.257l.344-2.99a.29.29,0,0,0-.288-.324H10.643V4.179c0-.565.3-.852.9-.852h1.708a.29.29,0,0,0,.29-.29V.292a.29.29,0,0,0-.29-.29H10.9c-.017,0-.053,0-.108,0a4.511,4.511,0,0,0-2.95,1.112,3.093,3.093,0,0,0-1.029,2.75V6.054H4.744a.29.29,0,0,0-.29.29V9.3A.29.29,0,0,0,4.744,9.587Z" transform="translate(93 13)" fill="#385c8e"/>
+  </g>
+</svg>

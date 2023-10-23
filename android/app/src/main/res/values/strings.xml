@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Elite Quiz</string>
+
+    <string name="facebook_app_id">858040135030262</string>
+    <string name="fb_login_protocol_scheme">fb858040135030262</string>
+
+</resources>
